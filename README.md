@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️</h1>
 <h3 align="center">Looking for professional development in programming area 👨‍💻</h3>
 
-- 📚 I’m currently learning **Python**
+- 📚 I’m currently learning **Python and PHP**
 
 - 🤔 How to reach me **antonio.jfj@hotmail.com**
 
