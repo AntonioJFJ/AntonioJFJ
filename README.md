@@ -1,10 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️</h1>
 <h3 align="center">Looking for professional development in programming area 👨‍💻</h3>
 
-- 📚 I’m currently learning **Python and PHP**
-
-- 🤔 How to reach me **antonio.jfj@hotmail.com**
-
+Email: **antonio.jfj@hotmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/antonio-jorge-42496a161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-jorge-42496a161" height="30" width="40" /></a>
