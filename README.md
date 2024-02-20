@@ -15,3 +15,8 @@ Email: **antonio.jfj@hotmail.com**
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="mysql" width="40" height="40"/> </a>
 </div>
 
+<style>
+  div {
+    background-color: #ffffff;
+  }
+</style>
